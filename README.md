@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yash-kavaiya-eda-assistant-mcp-badge.png)](https://mseep.ai/app/yash-kavaiya-eda-assistant-mcp)
+
 # 🔍 EDA Assistant MCP
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://python.org)
